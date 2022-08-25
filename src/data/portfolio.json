@@ -1,0 +1,10 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/elastos-hive.png",
+      "title": "Placeholder",
+      "description": "Placeholder description",
+      "url": "https://github.com/elastos/Elastos.Hive.Node"
+    }
+  ]
+}
